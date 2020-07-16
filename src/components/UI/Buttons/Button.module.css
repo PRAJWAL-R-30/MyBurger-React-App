@@ -1,0 +1,26 @@
+.Button {
+    background-color: transparent;
+    border: 1px solid white;
+    text-align: center;
+    color: black;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+/* .Button:first-of-type {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+} */
+
+.Success {
+    background-color: #75b61b;
+}
+
+.Danger {
+    background-color: #d60e0e;
+}
